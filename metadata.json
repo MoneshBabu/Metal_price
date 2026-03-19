@@ -1,0 +1,5 @@
+{
+  "name": "MetalPrice Tracker",
+  "description": "A live precious metal price tracking application with independent loading states and detailed analytics.",
+  "requestFramePermissions": []
+}
